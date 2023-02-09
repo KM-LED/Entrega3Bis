@@ -80,12 +80,12 @@ button#reset {
 }
 
 .normal {
-    width: 250px;
-    border: 1px solid #000;
+    width: 450px;
+    border: 6px solid #6d3b47;
     border-collapse: collapse;
 }
 
 .normal th,
 .normal td {
-    border: 1px solid #6d3b47;
+    border: 5px solid #6d3b47;
 }
